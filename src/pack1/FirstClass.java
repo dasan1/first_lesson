@@ -30,6 +30,8 @@ public class FirstClass {
         }
 //trertyrtyrtyty
 //fggjghjghfjgjfhjf
+        //frtgtrg
+        //rtgertget6535456
 
         System.out.println((digit1 * digit2) / 3);
 

@@ -28,8 +28,10 @@ public class FirstClass {
         }else{
             System.out.println("no");
         }
-
+//trertyrtyrtyty
 //fggjghjghfjgjfhjf
+        //frtgtrg
+        //rtgertget6535456
 
         System.out.println((digit1 * digit2) / 3);
 
